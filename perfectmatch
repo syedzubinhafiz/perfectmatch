@@ -1,8 +1,6 @@
 """
 FIT2004 ASSIGNMENT 1 
- Syed Zubin Hafiz
- ID: 32227671
- 
+ Syed Zubin Hafiz 
 """
 
 def analyze (results,roster,score) : 
